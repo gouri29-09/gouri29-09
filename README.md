@@ -35,7 +35,6 @@
 <p align="left">
 <a href="https://twitter.com/@GouriHiremath29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="GouriHiremath29" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gouri-hiremath-bb2207225" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gouri-hiremath-bb2207225" height="30" width="40" /></a>
-
 <a href="https://instagram.com/_.gouri.29._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.gouri.29._" height="30" width="40" /></a>
 </p>
 
